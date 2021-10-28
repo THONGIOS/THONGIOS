@@ -338,18 +338,18 @@ for (i = 0; i < close.length; i++) {
 <li>
 <div class="item-content">
 <div class="item-media">
-<img class="app-icon" src="https://jb-apps.me/Images/unc0ver.png"></div>
+<img class="app-icon" src="https://jb-apps.me/Images/Spotifi.png"></div>
 <div class="item-inner">
-    <div class="item-title" style="color: #fff;">Unc0ver | v7.0.0</div>
+    <div class="item-title" style="color: #fff;">Spotify | v8.5.77</div>
 <div class="item-title-row">
 <div class="item-after">
-<a href="/Links/Unc0ver.php"  target="_blank" class="button button-fill button-round" style="background: #F0F1F6; color: #007AFF; font-weight:bold;">GET</a>
+<a href="https://archive.org/download/spotify-8.5.77-1635355647/Spotify_8.5.77_1635355647.ipa">GET</a>
 <br>
 
 
 </div>
 </div>
-<div class="item-subtitle" style="color: #a9a9a9;">jailbreak For ios11.0-14.3 | All Devices</div>
+<div class="item-subtitle" style="color: #a9a9a9;">spotify premium | Support All Devices</div>
 </div>
 </div>
 </li>
