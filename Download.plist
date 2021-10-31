@@ -11,7 +11,6 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<class="app-icon" src="Images/Spotify .PNG"> 
 <string>https://archive.org/download/spotify-2/spotify%202.ipa</string>
 </dict>
 </array>
