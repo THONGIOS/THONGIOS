@@ -11,19 +11,19 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/mey-16.31.4-1637417205/Mey%E2%9D%A4%EF%B8%8F_16.31.4_1637417205.ipa</string>
+<string>https://archive.org/download/dina-4.3.4-1637832168/DINA%F0%9F%92%8E_4.3.4_1637832168.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.For Mey</string>
+<string>com.DINA</string>
 <key>bundle-version</key>
 <string>19.3.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>For Mey</string>
+<string>DINA</string>
 </dict>
 </dict>
 </array>
