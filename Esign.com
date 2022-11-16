@@ -27,5 +27,4 @@
 </dict>
 </dict>
 </array>
-</dict>
 </plist>
