@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/esign-4.6.2-i-phone-distribution-aia-bhd./ESign_4.6.2_iPhone%20Distribution_%20AIA%20BHD..ipa</string>
+<string>https://archive.org/download/esign_4.7.0_unsign_20221112_0354/esign_4.7.0_unsign.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
